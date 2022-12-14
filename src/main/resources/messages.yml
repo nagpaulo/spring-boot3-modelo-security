@@ -1,0 +1,6 @@
+campo:
+  cpf:
+    invalido: CPF está inválido.
+    obrigatorio: O campo CPF é obrigatório.
+  nome:
+    obrigatorio: O campo nome é obrigatório.
